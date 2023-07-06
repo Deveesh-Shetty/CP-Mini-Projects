@@ -1,3 +1,14 @@
+/*
+ * Creating a Caesar Cipher which takes in a string and encodes it in shift
+ * provided by us Shift can be positive or negative
+ *
+ * Example Output:
+ * Enter the string to be encoded: SahyadriOpenSourceCommunity
+ * Enter the shift: 4
+ * The encoded string is: WelcehvmStirWsyvgiGsqqyrmxc
+ *
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
