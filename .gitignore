@@ -1,0 +1,4 @@
+# Below lines ignores the executable file because it doesnt have any extension on linux
+*
+!*.*
+!*/
